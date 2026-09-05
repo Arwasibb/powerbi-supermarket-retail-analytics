@@ -4,7 +4,9 @@
 An end-to-end dimensional retail business intelligence solution designed to evaluate sales performance, branch operational efficiency, and product category margins. Built upon a robust **Star Schema** data model, this interactive dashboard empowers retail stakeholders to shift from reactive reporting to predictive, data-driven margin optimization.
 
 ---
+
 ## 🎥 Interactive Dashboard Demo
+https://github.com/Arwasibb/powerbi-supermarket-retail-analytics/blob/main/Live%20Demo.mp4
 
 ---
 
