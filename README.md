@@ -6,7 +6,8 @@ An end-to-end dimensional retail business intelligence solution designed to eval
 ---
 
 ## 🎥 Interactive Dashboard Demo
-https://github.com/Arwasibb/powerbi-supermarket-retail-analytics/blob/main/Live%20Demo.mp4
+
+https://github.com/user-attachments/assets/00db5771-f807-47da-aac0-f1a23c580d08
 
 ---
 
