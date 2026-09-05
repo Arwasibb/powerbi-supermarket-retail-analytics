@@ -4,6 +4,9 @@
 An end-to-end dimensional retail business intelligence solution designed to evaluate sales performance, branch operational efficiency, and product category margins. Built upon a robust **Star Schema** data model, this interactive dashboard empowers retail stakeholders to shift from reactive reporting to predictive, data-driven margin optimization.
 
 ---
+## 🎥 Interactive Dashboard Demo
+
+---
 
 ## 🎯 Business Problem & Key Objectives
 Retail decision-makers often struggle to dissect revenue drivers across distributed branch networks and diverse product lines. Key analytical questions addressed:
