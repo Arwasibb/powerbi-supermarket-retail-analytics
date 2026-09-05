@@ -1,9 +1,5 @@
 # 🛒 Supermarket Retail Analytics & Dimensional Modeling | Power BI
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Advanced_Measures-blue?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-Star_Schema-green?style=for-the-badge)
-
 ## 📌 Executive Summary
 An end-to-end dimensional retail business intelligence solution designed to evaluate sales performance, branch operational efficiency, and product category margins. Built upon a robust **Star Schema** data model, this interactive dashboard empowers retail stakeholders to shift from reactive reporting to predictive, data-driven margin optimization.
 
